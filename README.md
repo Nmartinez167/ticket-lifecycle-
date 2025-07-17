@@ -60,13 +60,13 @@ Ticket Creation (Intake):
 -SLA-Driven Ticket Prioritization
 To ensure time-sensitive issues are addressed appropriately, tickets were prioritized using SLAs based on severity:
 
-<h2>Sev-A<h2> | Critical (1 Hour, 24/7):
+Sev-A | Critical (1 Hour, 24/7):
 For high-impact incidents (e.g., full system outages such as mobile or online banking downtime). Immediate escalation to the SysAdmins team with a 1-hour resolution window.
 
-<h2>Sev-B<h2> | High (4 Hours, 24/7):
+Sev-B | High (4 Hours, 24/7):
 For important but non-critical issues (e.g., urgent software requests like Adobe for accounting). Resolved within 4 hours, available around the clock.
 
-<h2>Sev-B/C<h2> | Moderate (2 Hours, Business Hours):
+Sev-B/C | Moderate (2 Hours, Business Hours):
 For lower-priority issues (e.g., system slowness on executive workstations). Addressed during business hours with a 2-hour resolution window.
 
 This SLA framework helped ensure a balance between urgent resolutions and routine support tasks, improving overall help desk performance and accountability.
