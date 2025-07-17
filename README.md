@@ -29,35 +29,35 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<h2>Project Summary<h2>
+Project Summary
 This phase of the osTicket implementation focused on showcasing the end-to-end workflow of a support ticket. It highlights how osTicket is used to intake, triage, prioritize, and resolve user issues in a structured, SLA-compliant environment. By leveraging osTicket’s built-in tools, I helped optimize the ticketing process to reduce resolution times and enhance support team responsiveness.
 
 Ticket Lifecycle Stages
 Ticket Creation (Intake):
 
--Tickets are initiated by users or agents via the web portal or email.
+Tickets are initiated by users or agents via the web portal or email.
 
--Each ticket captures essential information to categorize and route the issue effectively.
+Each ticket captures essential information to categorize and route the issue effectively.
 
--Assignment & Initial Communication:
+Assignment & Initial Communication:
 
--Tickets are automatically assigned to appropriate departments or agents.
+Tickets are automatically assigned to appropriate departments or agents.
 
--The support agent initiates contact with the user, confirms details, and sets expectations.
+The support agent initiates contact with the user, confirms details, and sets expectations.
 
--Issue Resolution Process:
+Issue Resolution Process:
 
--Agents investigate and troubleshoot the issue, providing progress updates as needed.
+Agents investigate and troubleshoot the issue, providing progress updates as needed.
 
--Collaboration or escalation is initiated if the issue requires specialized support.
+Collaboration or escalation is initiated if the issue requires specialized support.
 
--Resolution & Closure:
+Resolution & Closure:
 
--Once the issue is resolved, the agent confirms resolution with the user.
+Once the issue is resolved, the agent confirms resolution with the user.
 
--The ticket is then closed, with all actions and communications logged for future reference.
+The ticket is then closed, with all actions and communications logged for future reference.
 
--SLA-Driven Ticket Prioritization
+SLA-Driven Ticket Prioritization
 To ensure time-sensitive issues are addressed appropriately, tickets were prioritized using SLAs based on severity:
 
 Sev-A | Critical (1 Hour, 24/7):
@@ -87,5 +87,4 @@ Ensured accurate documentation for auditing, trend analysis, and knowledge base 
 
 Outcome
 By managing the complete lifecycle of support tickets within osTicket, I contributed to a responsive, SLA-compliant support environment. This process improved issue tracking, reduced response times, and increased user satisfaction through timely, well-documented resolutions.
-
 
