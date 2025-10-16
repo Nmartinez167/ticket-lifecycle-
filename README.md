@@ -8,7 +8,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -29,62 +28,61 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-Project Summary
-This phase of the osTicket implementation focused on showcasing the end-to-end workflow of a support ticket. It highlights how osTicket is used to intake, triage, prioritize, and resolve user issues in a structured, SLA-compliant environment. By leveraging osTicket’s built-in tools, I helped optimize the ticketing process to reduce resolution times and enhance support team responsiveness.
+<li>Project Summary
+This phase of the osTicket implementation focused on showcasing the end-to-end workflow of a support ticket. It highlights how osTicket is used to intake, triage, prioritize, and resolve user issues in a structured, SLA-compliant environment. By leveraging osTicket’s built-in tools, I helped optimize the ticketing process to reduce resolution times and enhance support team responsiveness.</li>
 
 Ticket Lifecycle Stages
-Ticket Creation (Intake):
+Ticket Creation (Intake): 
+ <li>Tickets are initiated by users or agents via the web portal or email.
 
-Tickets are initiated by users or agents via the web portal or email.
+ <li>Each ticket captures essential information to categorize and route the issue effectively.</li>
 
-Each ticket captures essential information to categorize and route the issue effectively.
+ <li>Assignment & Initial Communication:</li>
 
-Assignment & Initial Communication:
+ <li>Tickets are automatically assigned to appropriate departments or agents.</li>
 
-Tickets are automatically assigned to appropriate departments or agents.
-
-The support agent initiates contact with the user, confirms details, and sets expectations.
+ <li>The support agent initiates contact with the user, confirms details, and sets expectations.</li>
 
 Issue Resolution Process:
 
-Agents investigate and troubleshoot the issue, providing progress updates as needed.
+ <li>Agents investigate and troubleshoot the issue, providing progress updates as needed.</li>
 
-Collaboration or escalation is initiated if the issue requires specialized support.
+ <li>Collaboration or escalation is initiated if the issue requires specialized support.</li>
 
 Resolution & Closure:
 
-Once the issue is resolved, the agent confirms resolution with the user.
+ <li>Once the issue is resolved, the agent confirms resolution with the user.</li>
 
-The ticket is then closed, with all actions and communications logged for future reference.
+ <li>The ticket is then closed, with all actions and communications logged for future reference.</li>
 
 SLA-Driven Ticket Prioritization
-To ensure time-sensitive issues are addressed appropriately, tickets were prioritized using SLAs based on severity:
+ <li>To ensure time-sensitive issues are addressed appropriately, tickets were prioritized using SLAs based on severity:</li>
 
-Sev-A | Critical (1 Hour, 24/7):
-For high-impact incidents (e.g., full system outages such as mobile or online banking downtime). Immediate escalation to the SysAdmins team with a 1-hour resolution window.
+ <li>Sev-A | Critical (1 Hour, 24/7):
+For high-impact incidents (e.g., full system outages such as mobile or online banking downtime). Immediate escalation to the SysAdmins team with a 1-hour resolution window.</li>
 
-Sev-B | High (4 Hours, 24/7):
-For important but non-critical issues (e.g., urgent software requests like Adobe for accounting). Resolved within 4 hours, available around the clock.
+ <li>Sev-B | High (2 Hours, 24/7):
+For important but non-critical issues (e.g., urgent software requests like Adobe for accounting). Resolved within 2 hours, available around the clock.</li>
 
-Sev-B/C | Moderate (2 Hours, Business Hours):
-For lower-priority issues (e.g., system slowness on executive workstations). Addressed during business hours with a 2-hour resolution window.
+ <li>Sev-C | Moderate (4 Hours, Business Hours):
+For lower-priority issues (e.g., system slowness on executive workstations). Addressed during business hours with a 4-hour resolution window.</li>
 
-This SLA framework helped ensure a balance between urgent resolutions and routine support tasks, improving overall help desk performance and accountability.
+ <li>This SLA framework helped ensure a balance between urgent resolutions and routine support tasks, improving overall help desk performance and accountability.</li>
 
 Ticket Triage & Escalation
-Assessed incoming tickets to determine resolution path.
+<li>Assessed incoming tickets to determine resolution path.</li>
 
-Escalated tickets to specialized teams (e.g., Level II or SysAdmins) based on complexity or urgency.
+<li>Escalated tickets to specialized teams (e.g., Level II or SysAdmins) based on complexity or urgency.</li>
 
-Ensured no ticket was delayed due to misrouting or lack of clarity.
+<li>Ensured no ticket was delayed due to misrouting or lack of clarity.</li>
 
 Resolution & Documentation
-Delivered timely solutions while maintaining clear, professional communication with users.
+<li>Delivered timely solutions while maintaining clear, professional communication with users.</li>
 
-Verified issue resolution before closing each ticket.
+<li>Verified issue resolution before closing each ticket.</li>
 
 Ensured accurate documentation for auditing, trend analysis, and knowledge base updates.
 
 Outcome
-By managing the complete lifecycle of support tickets within osTicket, I contributed to a responsive, SLA-compliant support environment. This process improved issue tracking, reduced response times, and increased user satisfaction through timely, well-documented resolutions.
+<li>By managing the complete lifecycle of support tickets within osTicket, I contributed to a responsive, SLA-compliant support environment. This process improved issue tracking, reduced response times, and increased user satisfaction through timely, well-documented resolutions.</li>
 
