@@ -6,8 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
 
 <h2>Environments and Technologies Used</h2>
 
@@ -35,7 +33,15 @@ Ticket Lifecycle Stages
 Ticket Creation (Intake): 
  <li>Tickets are initiated by users or agents via the web portal or email.
 
+  
+  
+  <img width="1022" height="633" alt="Screenshot 2025-10-09 144742" src="https://github.com/user-attachments/assets/f083860d-f568-451f-b43a-63119b11881e" />
+
  <li>Each ticket captures essential information to categorize and route the issue effectively.</li>
+
+
+ 
+<img width="1223" height="692" alt="Screenshot 2025-10-15 132208" src="https://github.com/user-attachments/assets/f36173dc-6bad-4e35-bb8b-c192a1727512" />
 
  <li>Assignment & Initial Communication:</li>
 
@@ -43,15 +49,21 @@ Ticket Creation (Intake):
 
  <li>The support agent initiates contact with the user, confirms details, and sets expectations.</li>
 
-Issue Resolution Process:
+Issue Resolution Process:<img width="1182" height="738" alt="Screenshot 2025-10-15 125741" src="https://github.com/user-attachments/assets/4fcc3225-5484-4a8f-af4a-77eb2e475dad" />
+
 
  <li>Agents investigate and troubleshoot the issue, providing progress updates as needed.</li>
+<img width="1232" height="667" alt="Screenshot 2025-10-15 132853" src="https://github.com/user-attachments/assets/e248f15b-4dd4-4662-ae3f-c4c5fc682d50" />
 
  <li>Collaboration or escalation is initiated if the issue requires specialized support.</li>
 
 Resolution & Closure:
 
  <li>Once the issue is resolved, the agent confirms resolution with the user.</li>
+
+
+ 
+<img width="1170" height="717" alt="Screenshot 2025-10-15 134854" src="https://github.com/user-attachments/assets/59258740-80d5-45bc-8f64-fac5d0462d56" />
 
  <li>The ticket is then closed, with all actions and communications logged for future reference.</li>
 
