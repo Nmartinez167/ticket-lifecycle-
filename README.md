@@ -95,6 +95,7 @@ Resolution & Documentation
 
 Ensured accurate documentation for auditing, trend analysis, and knowledge base updates.
 
-Outcome
+<h2>Conclusion</h2>
+
 <li>By managing the complete lifecycle of support tickets within osTicket, I contributed to a responsive, SLA-compliant support environment. This process improved issue tracking, reduced response times, and increased user satisfaction through timely, well-documented resolutions.</li>
 
