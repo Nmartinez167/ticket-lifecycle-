@@ -37,15 +37,15 @@ Ticket Creation (Intake):
   
   <img width="1022" height="633" alt="Screenshot 2025-10-09 144742" src="https://github.com/user-attachments/assets/f083860d-f568-451f-b43a-63119b11881e" />
 
- <li>Each ticket captures essential information to categorize and route the issue effectively.</li>
+ <li><strong>Each ticket captures essential information to categorize and route the issue effectively.</li>
 
 
  
 <img width="1223" height="692" alt="Screenshot 2025-10-15 132208" src="https://github.com/user-attachments/assets/f36173dc-6bad-4e35-bb8b-c192a1727512" />
 
- <li>Assignment & Initial Communication:</li>
+ <li><strong>Assignment & Initial Communication:</li>
 
- <li>Tickets are automatically assigned to appropriate departments or agents.</li>
+ <li><strong>Tickets are automatically assigned to appropriate departments or agents.</li>
 
  <li>The support agent initiates contact with the user, confirms details, and sets expectations.</li>
 
