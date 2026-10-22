@@ -68,9 +68,12 @@ To do this:
   - Department: Online Banking Department
 - Attempt to observe the ticket again as "john" and note whether you can view or change it.
 
+<img width="50%" height="50%" alt="55555" src="https://github.com/user-attachments/assets/0ee4b32f-45ef-4c30-a479-e4225df12bf0" />
 
- 
-<img width="1170" height="717" alt="Screenshot 2025-10-15 134854" src="https://github.com/user-attachments/assets/59258740-80d5-45bc-8f64-fac5d0462d56" />
+<img width="50%" height="50%" alt="8888888" src="https://github.com/user-attachments/assets/4d57a952-c231-4aac-ab6d-f9c5154bdf42" />
+
+<img width="50%" height="50%" alt="7777777" src="https://github.com/user-attachments/assets/0ad22caf-2c7a-4b5f-ba41-1a764c743d43" />
+
 
  <li>The ticket is then closed, with all actions and communications logged for future reference.</li>
 
