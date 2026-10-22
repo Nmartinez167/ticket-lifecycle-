@@ -74,8 +74,27 @@ To do this:
 
 <img width="50%" height="50%" alt="7777777" src="https://github.com/user-attachments/assets/0ad22caf-2c7a-4b5f-ba41-1a764c743d43" />
 
+<img width="50%" height="50%" alt="155251915" src="https://github.com/user-attachments/assets/d310d133-ce49-49ba-adb7-abb3afd1a1c7" />
 
- <li>The ticket is then closed, with all actions and communications logged for future reference.</li>
+<img width="50%" height="50%" alt="268484848" src="https://github.com/user-attachments/assets/3a328ca1-845c-4675-b3a3-722e685c0511" />
+
+<img width="50%" height="50%" alt="1919111781" src="https://github.com/user-attachments/assets/fd8dcbd2-1fec-4e77-992b-673bb1debe35" />
+
+<h3> We no longer have access as john since we escalated the problem to the system administrators.</h3>
+
+**As a Help Desk Agent (Jane)**
+- Log in as "jane."
+- Work the ticket to completion.
+
+<img width="50%" height="50%" alt="225258" src="https://github.com/user-attachments/assets/7c76b3a4-4d38-4f2d-9a93-dd9ca70f4e9f" />
+
+<img width="50%" height="50%" alt="51528818125" src="https://github.com/user-attachments/assets/71fbc09e-825f-48a4-a595-40cfb72dc49c" />
+
+<img width="50%" height="50%" alt="9999999" src="https://github.com/user-attachments/assets/b50f8cca-4a02-4c19-b7e1-1808d3d46317" />
+
+<img width="50%" height="50%" alt="77484844" src="https://github.com/user-attachments/assets/b41c33a6-095e-4c70-b92b-06b653d11dd6" />
+
+<img width="50%" height="50%" alt="9999621848181" src="https://github.com/user-attachments/assets/7878d1b9-96a6-4aed-89ae-d91dd746fd8c" />
 
 SLA-Driven Ticket Prioritization
  <li>To ensure time-sensitive issues are addressed appropriately, tickets were prioritized using SLAs based on severity:</li>
