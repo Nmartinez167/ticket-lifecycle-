@@ -3,7 +3,13 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+
+This document provides a step-by-step guide to creating and managing tickets within the osTicket system to demonstrate their lifecycle. Each scenario includes steps for creating tickets, observing their properties, setting their attributes, and working them to completion.
+
+Admin/Analyst Login Page: [Admin Login](http://localhost/osTicket/scp/login.php)
+
+End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
+<br />
 
 
 
@@ -23,43 +29,44 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <li>Assignment and Communication</li>
  <li>Working the Issue</li>
   <li>Resolution</li>
+  
+<h2>Before you Start</h2>
 
-<h2>Lifecycle Stages</h2>
+Disable/Delete Maintenance Department so tickets don't end up there.
+To do this:
+  - Navigate to Admin Panel -> Agents -> Departments.
+  - Click on Maintenance and delete
+    
+<li>Tickets are initiated by users or agents via the web portal or email.</li>
 
-<li>Project Summary
-This phase of the osTicket implementation focused on showcasing the end-to-end workflow of a support ticket. It highlights how osTicket is used to intake, triage, prioritize, and resolve user issues in a structured, SLA-compliant environment. By leveraging osTicket’s built-in tools, I helped optimize the ticketing process to reduce resolution times and enhance support team responsiveness.</li>
 
-Ticket Lifecycle Stages
-Ticket Creation (Intake): 
- <li>Tickets are initiated by users or agents via the web portal or email.
+<h3> Scenario 1: Entire Mobile/Online Banking System is Down</h3>
+
+**As an End-User**
+- Navigate to the End Users osTicket URL: [http://localhost/osTicket](http://localhost/osTicket)
+- Log in as an end-user.
+- Create a new ticket with the following details:
+  - Subject: Entire Mobile/Online Banking System is Down
+  - Details: Provide a brief description of the issue
+
 
   
-  
-  <img width="1022" height="633" alt="Screenshot 2025-10-09 144742" src="https://github.com/user-attachments/assets/f083860d-f568-451f-b43a-63119b11881e" />
+  <img width="50%" height="50%" alt="Screenshot 2025-10-09 144742" src="https://github.com/user-attachments/assets/f083860d-f568-451f-b43a-63119b11881e" />
 
- <li><strong>Each ticket captures essential information to categorize and route the issue effectively.</li>
+<img width="50%" height="50%" alt="11111" src="https://github.com/user-attachments/assets/bb89a664-f2d7-427a-91de-2f0d57e1b662" />
 
-
- 
-<img width="1223" height="692" alt="Screenshot 2025-10-15 132208" src="https://github.com/user-attachments/assets/f36173dc-6bad-4e35-bb8b-c192a1727512" />
-
- <li><strong>Assignment & Initial Communication:</li>
-
- <li><strong>Tickets are automatically assigned to appropriate departments or agents.</li>
-
- <li>The support agent initiates contact with the user, confirms details, and sets expectations.</li>
-
-Issue Resolution Process:<img width="1182" height="738" alt="Screenshot 2025-10-15 125741" src="https://github.com/user-attachments/assets/4fcc3225-5484-4a8f-af4a-77eb2e475dad" />
-
-
- <li>Agents investigate and troubleshoot the issue, providing progress updates as needed.</li>
-<img width="1232" height="667" alt="Screenshot 2025-10-15 132853" src="https://github.com/user-attachments/assets/e248f15b-4dd4-4662-ae3f-c4c5fc682d50" />
-
- <li>Collaboration or escalation is initiated if the issue requires specialized support.</li>
-
-Resolution & Closure:
-
- <li>Once the issue is resolved, the agent confirms resolution with the user.</li>
+**As a Help Desk Agent (John)**
+- Navigate to the Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
+- Log in as "john."
+- Locate the newly created ticket and observe its properties:
+  - Priority
+  - Department
+  - SLA
+  - Assigned To
+- Set the ticket properties as follows:
+  - Priority: Sev-A (1 hour, 24/7)
+  - Department: Online Banking Department
+- Attempt to observe the ticket again as "john" and note whether you can view or change it.
 
 
  
